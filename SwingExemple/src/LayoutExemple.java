@@ -31,6 +31,7 @@ public class LayoutExemple {
   p3.add(b6, BorderLayout.CENTER);
   f.getContentPane().add(p1, BorderLayout.CENTER);
   f.show();
+  // deuxiem commit 
   
   
   
